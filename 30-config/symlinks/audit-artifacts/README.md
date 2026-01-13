@@ -2,19 +2,19 @@
 ---
 # Auto-Generated README
 
-# infra
+# audit-artifacts
 
-**📂 Path:** `/opt/repos/github/ops-vault/infra`
+**📂 Path:** `/opt/repos/github/ops-vault/infra/symlinks/audit-artifacts`
 **📅 Created:** 2026-01-13
 **👤 Owner:** knerdly
 
 ---
 
 ## 📌 Project Overview
-> *Infrastructure documentation in markdown format.*
+> *Directory for storing various symlink audit result text files.*
 
 ## 🚀 Features
-- 🔹 symlinks
+- 🔹 Feature 1
 - 🔹 Feature 2
 - 🔹 Feature 3 *(or remove this section if not applicable)*
 

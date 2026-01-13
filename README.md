@@ -15,8 +15,15 @@
 
 ## 🚀 Features
 - 🔹 symlinks - Markdown files and Obsidian Vault with Base
-- 🔹 Feature 2
-- 🔹 Feature 3 *(or remove this section if not applicable)*
+- 🔹 TODO: systems/ → symlinks to each host’s config repo
+- 🔹 TODO: services/ → symlinks to service definitions, compose files, unit files
+- 🔹TODO: auth/ → symlinks to Bitwarden exports, passkey docs, SSH key manifests
+- 🔹TODO: storage/ → symlinks to ZFS pools, backup configs, snapshot policies
+- 🔹TODO: network/ → symlinks to firewall rules, VLAN configs, router exports
+- 🔹
+- 🔹
+- 🔹
+- 🔹
 
 ## 📦 Installation
 ```sh
